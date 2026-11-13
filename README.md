@@ -1,8 +1,8 @@
-# <div align="center">Hey there, I'm Gujjula Anjani Krishna 👋</div>
+# <div align="center">Gujjula Anjani Krishna</div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Data+Engineer+%40+Nokia;Building+Production+ETL%2FELT+Pipelines;Fine-Tuning+LLMs+with+RAFT+%26+RAG;Compiling+Typst+to+WASM+in+Browser;Decentralizing+Academic+Records+on+Ethereum)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Data+Engineer+%40+Nokia;Building+Production+ETL%2FELT+Pipelines;Fine-Tuning+LLMs+with+RAFT+%26+RAG;Compiling+Typst+to+WASM+in+Browser;Decentralizing+Academic+Records+on+Ethereum)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gujjulaanjanikrishna"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -14,16 +14,16 @@
 
 ---
 
-### 🚀 About Me
-- 💼 **Data Engineer Intern @ Nokia** — Architected and optimized batch & streaming ETL/ELT pipelines for the OneDSP platform using **PySpark**, **Azure Synapse**, and **Azure Data Factory**; delivered a performance-tuning pass saving **€5,000+** in cloud spend.
-- 🎓 **B.Tech in Computer Science (Cyber Security)** @ Sri Venkateswara College of Engineering (**9.12 CGPA**).
-- 🌟 **Former Executive Head, Google Developer Groups (GDG) & Coding Club** · President, CSC '25.
-- 📜 **Certified:** Salesforce Certified AI Specialist · Cisco CCNA · AWS Academy Cloud Foundations.
-- 💡 **Passion:** High-throughput data pipelines, GenAI agentic architectures, and decentralized trust systems.
+### About Me
+- **Data Engineer Intern @ Nokia** — Architected and optimized batch and streaming ETL/ELT pipelines for the OneDSP platform using PySpark, Azure Synapse, and Azure Data Factory; performance-tuning delivered over 5,000 EUR in cloud spend savings.
+- **B.Tech in Computer Science (Cyber Security)** — Sri Venkateswara College of Engineering (9.12 CGPA).
+- **Leadership** — Former Executive Head, Google Developer Groups (GDG) & Coding Club; President, CSC '25.
+- **Certifications** — Salesforce Certified AI Specialist, Cisco CCNA, AWS Academy Cloud Foundations.
+- **Engineering Focus** — Scalable data pipelines, GenAI agentic architectures, and decentralized systems.
 
 ---
 
-### 🛠️ Tech Stack & Ecosystem
+### Technical Skills
 
 <table>
   <tr>
@@ -76,46 +76,46 @@
 
 ---
 
-### 🌟 Featured Highlights
+### Featured Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">📄 ResumeForge</h3>
+      <h3 align="center">ResumeForge</h3>
       <p><b>AI ATS Optimizer & Typst WASM Compiler</b></p>
-      <p>Translates resumes against job descriptions, runs an in-browser Typst compilation engine via WebAssembly, and executes iterative deterministic ATS scoring loops.</p>
-      <p><code>React</code> · <code>TypeScript</code> · <code>Typst WASM</code> · <code>LLM Pipeline</code></p>
-      <p><a href="https://github.com/mrkrishna225/resume_builder_v2">🔗 View Repository</a></p>
+      <p>Parses job descriptions, executes in-browser Typst compilation via WebAssembly, and runs iterative deterministic ATS scoring loops.</p>
+      <p><code>React</code> | <code>TypeScript</code> | <code>Typst WASM</code> | <code>LLM Pipeline</code></p>
+      <p><a href="https://github.com/mrkrishna225/resume_builder_v2">View Repository</a></p>
     </td>
     <td width="50%">
-      <h3 align="center">🧠 RAFT AI Engine</h3>
+      <h3 align="center">RAFT AI Engine</h3>
       <p><b>Retrieval-Augmented Fine-Tuning Pipeline</b></p>
       <p>Modular data preparation and supervised fine-tuning pipeline combining gold context chunks and distractor documents using Databricks, PySpark, and NVIDIA NIM.</p>
-      <p><code>Databricks</code> · <code>PySpark</code> · <code>NVIDIA NIM</code> · <code>Python</code></p>
-      <p><a href="https://github.com/mrkrishna225/RAFT_AI_Chatbot">🔗 View Repository</a></p>
+      <p><code>Databricks</code> | <code>PySpark</code> | <code>NVIDIA NIM</code> | <code>Python</code></p>
+      <p><a href="https://github.com/mrkrishna225/RAFT_AI_Chatbot">View Repository</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🎓 Immutable Academics</h3>
+      <h3 align="center">Immutable Academics</h3>
       <p><b>Decentralized LMS & Credential Verification</b></p>
       <p>Eliminates credential fraud by issuing and verifying student academic degrees and transcripts immutably on Ethereum with IPFS distributed storage.</p>
-      <p><code>Ethereum</code> · <code>IPFS</code> · <code>Solidity</code> · <code>React</code></p>
-      <p><a href="https://github.com/mrkrishna225/final-year-proj">🔗 View Repository</a></p>
+      <p><code>Ethereum</code> | <code>IPFS</code> | <code>Solidity</code> | <code>React</code></p>
+      <p><a href="https://github.com/mrkrishna225/final-year-proj">View Repository</a></p>
     </td>
     <td width="50%">
-      <h3 align="center">🎙️ Voice AI Agent</h3>
+      <h3 align="center">Voice AI Agent</h3>
       <p><b>Real-Time LiveKit & Murf Falcon Pipeline</b></p>
       <p>Sub-second voice AI agent integrating Deepgram STT, Gemini/OpenAI reasoning, and ultra-fast 55ms Murf Falcon TTS streamed over WebRTC.</p>
-      <p><code>LiveKit</code> · <code>Deepgram</code> · <code>Murf Falcon</code> · <code>Python</code></p>
-      <p><a href="https://github.com/mrkrishna225/murf-livekit-starter_day1">🔗 View Repository</a></p>
+      <p><code>LiveKit</code> | <code>Deepgram</code> | <code>Murf Falcon</code> | <code>Python</code></p>
+      <p><a href="https://github.com/mrkrishna225/murf-livekit-starter_day1">View Repository</a></p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mrkrishna225&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
@@ -129,5 +129,5 @@
 ---
 
 <div align="center">
-  <sub>Engineered with precision by <b>Anjani Krishna Gujjula</b> · Powered by data & code</sub>
+  <sub>Anjani Krishna Gujjula | Engineering Portfolio</sub>
 </div>
