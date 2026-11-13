@@ -15,7 +15,7 @@
 ---
 
 ### About Me
-- **Data Engineer Intern @ Nokia** — Architected and optimized batch and streaming ETL/ELT pipelines for the OneDSP platform using PySpark, Azure Synapse, and Azure Data Factory; performance-tuning delivered over 5,000 EUR in cloud spend savings.
+- **Data Engineer Intern @ Nokia** — Architected and optimized batch and streaming ETL/ELT pipelines for the OneDSP platform using PySpark, Azure Synapse, and Azure Data Factory; performance-tuning 
 - **B.Tech in Computer Science (Cyber Security)** — Sri Venkateswara College of Engineering (9.12 CGPA).
 - **Leadership** — Former Executive Head, Google Developer Groups (GDG) & Coding Club; President, CSC '25.
 - **Certifications** — Salesforce Certified AI Specialist, Cisco CCNA, AWS Academy Cloud Foundations.
